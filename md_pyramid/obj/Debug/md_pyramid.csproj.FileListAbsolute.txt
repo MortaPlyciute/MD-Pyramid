@@ -1,0 +1,7 @@
+C:\Users\Guest01\source\repos\md_pyramid\md_pyramid\bin\Debug\md_pyramid.exe.config
+C:\Users\Guest01\source\repos\md_pyramid\md_pyramid\bin\Debug\md_pyramid.exe
+C:\Users\Guest01\source\repos\md_pyramid\md_pyramid\bin\Debug\md_pyramid.pdb
+C:\Users\Guest01\source\repos\md_pyramid\md_pyramid\obj\Debug\md_pyramid.csprojAssemblyReference.cache
+C:\Users\Guest01\source\repos\md_pyramid\md_pyramid\obj\Debug\md_pyramid.csproj.CoreCompileInputs.cache
+C:\Users\Guest01\source\repos\md_pyramid\md_pyramid\obj\Debug\md_pyramid.exe
+C:\Users\Guest01\source\repos\md_pyramid\md_pyramid\obj\Debug\md_pyramid.pdb
